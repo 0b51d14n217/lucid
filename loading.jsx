@@ -3,10 +3,9 @@ const loading = {
   height: 1080,
   backgroundColor: "#1b1b1b",
   overflow: "hidden",
-}
-
-
-<Video
+  
+  
+  <Video
   loopType="noLoop"
   posterEnabled={false}
   srcFile={ezgif.com-gif-maker.mp4}
@@ -32,3 +31,10 @@ const loading = {
   startTime={0}
   volume={25}
 />
+
+  
+  
+  
+}
+
+
