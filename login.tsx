@@ -3,9 +3,10 @@ const loginSignup = {
   height: 1080,
   backgroundColor: "#1b1b1b",
   overflow: "hidden",
-}
-
-const loginDetails = {
+  
+  
+  
+  const loginDetails = {
   boxSizing: "border-box",
   width: 570,
   height: 290,
@@ -116,3 +117,6 @@ const forgotPassword = {
   whileHoverScale={1.1}
 />
 }
+
+
+
